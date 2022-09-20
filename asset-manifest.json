@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Naya-01.github.io-module1/static/css/main.b27013f2.css",
+    "main.js": "/Naya-01.github.io-module1/static/js/main.b77c2175.js",
+    "static/media/VINCI.png": "/Naya-01.github.io-module1/static/media/VINCI.1a68aa669046a6430359.png",
+    "index.html": "/Naya-01.github.io-module1/index.html",
+    "main.b27013f2.css.map": "/Naya-01.github.io-module1/static/css/main.b27013f2.css.map",
+    "main.b77c2175.js.map": "/Naya-01.github.io-module1/static/js/main.b77c2175.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b27013f2.css",
+    "static/js/main.b77c2175.js"
+  ]
+}
