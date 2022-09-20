@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b27013f2.css",
+    "main.js": "/static/js/main.85c83385.js",
+    "static/media/VINCI.png": "/static/media/VINCI.1a68aa669046a6430359.png",
+    "index.html": "/index.html",
+    "main.b27013f2.css.map": "/static/css/main.b27013f2.css.map",
+    "main.85c83385.js.map": "/static/js/main.85c83385.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b27013f2.css",
+    "static/js/main.85c83385.js"
+  ]
+}
